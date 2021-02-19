@@ -10,6 +10,8 @@ The App has three interfaces and navigation allowing for transition from one to 
 
 - View Three fetches a todo list of five from provided endpoint, `"https://jsonplaceholder.typicode.com/todos?_limit=5"` and displays them while highlighting those completed and those not. It also displays an object `Dictionary`, which is initially provided as unsorted as sorted in regard to keys.
 
+* **PS:** Bulma css is used in styling some of the components, imported from jsdeliver cdn.
+
 ### Setup
 
 ##### Prerequisites
