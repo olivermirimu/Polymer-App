@@ -21,8 +21,11 @@ Install [Polymer CLI](https://github.com/Polymer/polymer-cli) using
 
 ##### Setup project on local device
 
+Run the following commands in the following sequence:
+
     git clone https://github.com/olivermirimu/Polymer-App.git
     cd my-app
+    npm install
 
 ### Start the development server
 
